@@ -1,0 +1,1 @@
+INSERT INTO TABLE ${hivevar:database_nm}.${hivevar:table_nm} VALUES ('Test',cast('2019-11-01') as date, 1234);
